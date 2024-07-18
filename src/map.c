@@ -1,4 +1,4 @@
-#include "../headers/map.h"
+#include "../header/map.h"
 
 const int map[MAP_NUM_ROWS][MAP_NUM_COLS] = {
 	{6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6},
