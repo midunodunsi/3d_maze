@@ -1,4 +1,4 @@
-#include "../headers/color_buffer.h"
+#include "../header/color_buffer.h"
 
 /**
  * Clear color buffer - clear buffer for every frame
