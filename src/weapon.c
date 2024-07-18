@@ -6,7 +6,7 @@
 void renderWeapon(void)
 {
 	// Load the weapon image
-	SDL_Surface* loadedSurface = IMG_Load("./images/gun1.png");
+	SDL_Surface* loadedSurface = IMG_Load("./images/gun.png");
 
 	// Get the weapon texture information
 	uint32_t weaponWidth = loadedSurface->w;
