@@ -1,4 +1,4 @@
-#include "../headers/walls.h"
+#include "../header/walls.h"
 
 static texture_t wallTextures[NUM_WALL_TEXTURES];
 
