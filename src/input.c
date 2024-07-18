@@ -1,4 +1,4 @@
-#include "../headers/input.h"
+#include "../header/input.h"
 
 // Function to handle user input events
 void handleInput(void) {
