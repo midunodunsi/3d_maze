@@ -2,7 +2,7 @@
 
 static texture_t ceilingTextures[NUM_CEILING_TEXTURES];
 static const char *ceilingTextureFileNames[NUM_CEILING_TEXTURES] = {
-    "./images/64x64-clrsky.png",
+    "./images/clearsky.png",
 };
 
 void loadCeilingTextures(void) {
