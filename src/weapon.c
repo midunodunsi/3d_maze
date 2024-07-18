@@ -1,4 +1,4 @@
-#include "../headers/weapon.h"
+#include "../header/weapon.h"
 
 /**
  * renderWeapon - render the weapon texture
