@@ -1,4 +1,4 @@
-#include "../headers/rays.h"
+#include "../header/rays.h"
 
 // Array to store information about each ray
 ray_t rays[NUM_RAYS];
