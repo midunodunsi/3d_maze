@@ -1,4 +1,4 @@
-#include "../headers/floor.h"
+#include "../header/floor.h"
 
 static texture_t floorTextures[NUM_FLOOR_TEXTURES];
 static const char *floorTextureFileNames[NUM_FLOOR_TEXTURES] = {
