@@ -1,4 +1,4 @@
-#include "../headers/window.h"
+#include "../header/window.h"
 
 SDL_Renderer *renderer;
 color_t *colorBuffer;
