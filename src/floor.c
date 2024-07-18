@@ -2,7 +2,7 @@
 
 static texture_t floorTextures[NUM_FLOOR_TEXTURES];
 static const char *floorTextureFileNames[NUM_FLOOR_TEXTURES] = {
-	"./images/64x64-floor.png",
+	"./images/floor.png",
 };
 
 
