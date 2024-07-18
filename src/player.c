@@ -1,4 +1,4 @@
-#include "../headers/player.h"
+#include "../header/player.h"
 
 // Structure to store player information
 player_t player;
