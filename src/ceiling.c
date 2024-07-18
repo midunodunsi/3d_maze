@@ -1,4 +1,4 @@
-#include "../headers/ceiling.h"
+#include "../header/ceiling.h"
 
 static texture_t ceilingTextures[NUM_CEILING_TEXTURES];
 static const char *ceilingTextureFileNames[NUM_CEILING_TEXTURES] = {
