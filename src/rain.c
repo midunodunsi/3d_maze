@@ -1,4 +1,4 @@
-#include "../headers/rain.h"
+#include "../header/rain.h"
 
 Raindrop raindrops[MAX_RAIN_DROPS];
 bool isRaining = false;
