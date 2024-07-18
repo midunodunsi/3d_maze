@@ -4,14 +4,7 @@ static texture_t wallTextures[NUM_WALL_TEXTURES];
 
 // Define texture file names for walls
 static const char *wallTextureFileNames[NUM_WALL_TEXTURES] = {
-	"./images/redbrick.png",
-	"./images/purplestone.png",
-	"./images/colorstone.png",
-	"./images/wood.png",
-	"./images/graystone.png",
-	"./images/mossystone.png",
-	"./images/bluestone.png",
-	"./images/eagle.png",
+	"./images/wall1.png",
 };
 
 
