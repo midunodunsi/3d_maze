@@ -67,7 +67,8 @@ After compiling the project, you can run the executable:
 
 ## Game Demo
 
-[![Watch the video]](https://www.youtube.com/embed/)
+[![Watch the video](./images/youtube_maze_game.png)](https://www.youtube.com/embed/cqk_I83bILQ)
+
 
 ### About Me
 Follow me on Twitter 🐦, connect with me on LinkedIn 🔗, and check out my GitHub 🐙. You won't be disappointed!
